@@ -1,0 +1,11 @@
+.stream {
+	display: flex;
+	justify-content: center;
+	/*width: 100%!important;*/
+}
+
+.crosshair {
+	position: absolute;
+	justify-content: center;
+	/*transform: translateY(50%);*/
+}
